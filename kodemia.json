@@ -1,0 +1,131 @@
+{
+  "mentores": [
+    {
+      "idNumber": 1,
+      "name": "Israel",
+      "age": 29,
+      "nationality": "mexican",
+      "hobbies": [
+        "Guitarra",
+        "FrontEnd"
+      ],
+      "sex": "m",
+      "city": "CDMX"
+    },
+    {
+      "idNumber": 2,
+      "name": "Charles",
+      "age": 30,
+      "nationality": "mexican",
+      "hobbies": [
+        "Guitarra",
+        "BackEnd"
+      ],
+      "sex": "m",
+      "city": "CDMX"
+    },
+    {
+      "idNumber": 3,
+      "name": "Jorge",
+      "age": 32,
+      "nationality": "mexican",
+      "hobbies": [
+        "Videojuegos",
+        "Tecnología"
+      ],
+      "sex": "m",
+      "city": "CDMX"
+    },
+    {
+      "id": 4,
+      "name": "Freddy",
+      "age": 29,
+      "nationality": "mexican",
+      "hobbies": [
+        "Coaching",
+        "Chela"
+      ],
+      "sex": "m",
+      "city": "CDMX"
+    }
+  ],
+  "koders": [
+    {
+      "idNumber": 1,
+      "name": "Emilio",
+      "age": 29,
+      "nationality": "mexican",
+      "generationNumber": 15,
+      "hobbies": [
+        "Bataca",
+        "Diseño"
+      ],
+      "sex": "m",
+      "city": "GDL"
+    },
+    {
+      "idNumber": 2,
+      "name": "Erik",
+      "age": 28,
+      "nationality": "mexican",
+      "generationNumber": 15,
+      "hobbies": [
+        "Nadar",
+        "Football"
+      ],
+      "sex": "m",
+      "city": "CDMX"
+    },
+    {
+      "idNumber": 3,
+      "name": "Job",
+      "age": 33,
+      "nationality": "mexican",
+      "generationNumber": 15,
+      "hobbies": [
+        "Gym",
+        "PS"
+      ],
+      "sex": "m",
+      "city": "CDMX"
+    },
+    {
+      "idNumber": 4,
+      "name": "Ismael",
+      "age": 40,
+      "nationality": "mexican",
+      "generationNumber": 15,
+      "hobbies": [
+        "Music",
+        "Chorcha"
+      ],
+      "sex": "m",
+      "city": "CDMX"
+    },
+    {
+      "idNumber": 5,
+      "name": "Sara",
+      "age": 32,
+      "nationality": "mexican",
+      "generationNumber": 15,
+      "hobbies": [
+        "Caminar",
+        "Leer"
+      ],
+      "sex": "f",
+      "city": "Durango"
+    },
+    {
+      "id": 6,
+      "name": "Ivonne",
+      "age": "31",
+      "Nacionalidad": "mexican",
+      "hobbies": [
+        "bailar",
+        "cine"
+      ],
+      "sex": "f",
+      "city": "toluca"
+    }
+  ]
+}
